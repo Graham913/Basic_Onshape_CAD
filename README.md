@@ -10,4 +10,4 @@ I made an extruded rectangle with dimensions of 200mm by 120mm and cut 6 holes i
 
 
 
-![GrahamBase](images/Graham.base.png)
+![Graham.base](images/Graham.base.png)
