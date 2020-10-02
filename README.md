@@ -11,3 +11,13 @@ I made an extruded rectangle with dimensions of 200mm by 120mm and cut 6 holes i
 
 
 ![Graham.base](images/Graham.base.PNG)
+
+
+
+I made a mount for a caster
+
+
+I made an extruded square that was 120mm by 120mm with evenly cut holes
+
+
+![Graham.mount](images/Graham.mount.PNG)
