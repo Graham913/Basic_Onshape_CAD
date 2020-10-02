@@ -36,7 +36,7 @@ I made an extruded cicrle with two equal sized filleted rectagles with holes in 
 I made a tyre for the caster
 
 
-I made an equal trapazoid by making ist then making it symmetrical, then instead of extruding it I revolved it around the x axis
+I made an equal trapazoid by making ist then making it symmetrical, then instead of extruding it I revolved it around the x axis then filleted the edges to make it more round
 
 
 
