@@ -29,4 +29,4 @@ I made a fork for the caster
 I made an extruded cicrle with two equal sized filleted rectagles with holes in the top middle of them as well as a hollow cylindar on the opposite side of the circle
 
 
-![Graham.fork](images/graham.fork.PNG)
+![Graham.fork](images/Graham.fork.PNG)
