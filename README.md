@@ -30,3 +30,14 @@ I made an extruded cicrle with two equal sized filleted rectagles with holes in 
 
 
 ![Graham.fork](images/Graham.fork.PNG)
+
+
+
+I made a tyre for the caster
+
+
+I made an equal trapazoid by making ist then making it symmetrical, then instead of extruding it I revolved it around the x axis
+
+
+
+![Graham.tyre](images/Graham.tyre.PNG)
