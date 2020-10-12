@@ -67,3 +67,11 @@ I first inserted the wheel and tyre then mated them together then mated the coll
 
 
 ![Graham.subassembly](images/Graham.subassembly.PNG)
+
+
+I finished the final assembly for the caster
+
+
+I first mated the base and the mount togetrher followed by revlove mating the fork then putting the subassembly inbetween the fork with additional bearings then put in the last screws 
+
+![Grahamfinalassembly](images/Graham.finalassembly.PNG)
