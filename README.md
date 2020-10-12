@@ -41,3 +41,12 @@ I made an equal trapazoid by making ist then making it symmetrical, then instead
 
 
 ![Graham.tyre](images/Graham.tyre.PNG)
+
+
+I made a wheel for the caster
+
+
+I made an I shape with the sketch tool then used the revolve buttopn to make it more wheel like then fillet the edges to make it curved
+
+
+![Graham.wheel](images/Graham.wheel.PNG)
