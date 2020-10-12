@@ -57,4 +57,4 @@ I made and axle and collar for the caster
 I made a hollow cylindar with symetric indents on each side then another bigger cylindar over one side with a hole in it
 
 
-![Graham.axleandcollar(images/Graham.axleandcollar.PNG)
+![Graham.axleandcollar](images/Graham.axleandcollar.PNG)
