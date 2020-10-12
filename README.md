@@ -58,3 +58,12 @@ I made a hollow cylindar with symetric indents on each side then another bigger 
 
 
 ![Graham.axleandcollar](images/Graham.axleandcollar.PNG)
+
+
+I made the subassembly for the caster
+
+
+I first inserted the wheel and tyre then mated them together then mated the collar to the middle then put bearings on either side
+
+
+![Graham.subassembly](images/Graham.subassembly.PNG)
