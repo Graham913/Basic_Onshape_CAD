@@ -85,4 +85,4 @@ I started by making dowel pins by chafuring a cylindar then making configuration
 
 
 
-![Graham.Dowelpins](images/Graham.Dowelpins.PNG)
+![Graham.Dowelpins](images/Graham.Dowelpin.PNG)
