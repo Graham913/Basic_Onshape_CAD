@@ -75,3 +75,14 @@ I finished the final assembly for the caster
 I first mated the base and the mount togetrher followed by revlove mating the fork then putting the subassembly inbetween the fork with additional bearings then put in the last screws 
 
 ![Grahamfinalassembly](images/Graham.finalassembly.PNG)
+
+
+
+I made a picture frame with dowels
+
+
+I started by making dowel pins by chafuring a cylindar then making configurations with size and length, then I made the picture frame by making a trapazoid that is 10 inches long and one that is 8 inches long.
+
+
+
+![Graham.Dowelpins]
