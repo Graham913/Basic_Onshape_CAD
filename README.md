@@ -26,7 +26,7 @@ I made an extruded square that was 120mm by 120mm with evenly cut holes and one 
 I made a fork for the caster
 
 
-I made an extruded cicrle with two equal sized filleted rectagles with holes in the top middle of them as well as a hollow cylindar on the opposite side of the circle
+I made an extruded cicrle with two equal sized filleted rectagles with holes in the top middle of them, as well as a hollow cylindar on the opposite side of the circle
 
 
 ![Graham.fork](images/Graham.fork.PNG)
